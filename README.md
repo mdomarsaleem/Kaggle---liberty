@@ -1,5 +1,5 @@
 # Liberty
-liberty competitionn
+liberty competition
 
 This repo is list of experimentation done and models build for kaggle liberty competition:
 
